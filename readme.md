@@ -49,7 +49,7 @@ A simple and functional password generator that allows users to generate strong 
 
 ## License
 
-This project is licensed under the MIT License(LICENSE). You are free to use, modify, and distribute this project as per the license.
+This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute this project as per the license.
 
 ## Contributions
 
